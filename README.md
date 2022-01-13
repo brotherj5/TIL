@@ -16,3 +16,9 @@ $ git remote add origin https://github.com/brotherj5/TIL.git
 $ git remote -v
 ```
 
+
+### git push
+
+```
+$ git push origin master
+```
